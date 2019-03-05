@@ -157,3 +157,4 @@ if __name__ == '__main__':
                                   census_file=args.census_file,
                                   get_screenshots=args.get_screenshots,
                                   append=args.append)
+
