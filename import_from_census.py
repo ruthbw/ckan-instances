@@ -49,7 +49,6 @@ def get_screenshot(url, output_path):
     #   sudo apt-get install imagemagick
     #   for file in *.png; do convert $file -resize 350x250 $file; done
 
-
 def add_new_instances_from_census(instances_file='config/instances.json',
                                   new_instances_file='config/instances.json',
                                   census_file='census.csv',
